@@ -34,7 +34,8 @@ Following Botswana Academy of Science and the Department of Research Science and
 <br/><br/>
 <center>
 "*Through our vision, we aspire to transform Botswana from a resource-based to a knowledge-based economy through digitisation and embracing the 4IR. We are committed to a modern Botswana that is not only open to but is also able to compete with the rest of the world*" - HE. Presidents Masisi <br/> [Source: Government of Botswana]</center>
- 
+
+# Registration 
 
 <iframe src="https://www.eventbrite.com/e/4ir-minus-the-buzz-tickets-68788533355" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe> 
 
