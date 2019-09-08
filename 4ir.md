@@ -1,0 +1,48 @@
+---
+title: " <center>Computer Society of Botswana  <br/> In conjuction with <br/> iCodeHub and SAIS Universities-Industry-Government 
+        co-creation Platform <br/> Presents <br/> <br/> *Industry 4.0 Minus The Buzz* <br/> </center>"
+output:
+  html_document:
+    toc: no
+    highlight: tango
+    number_sections: no
+    theme: cerulean
+    toc_float: no
+  pdf_document:
+    toc: yes
+  word_document:
+    highlight: tango
+    number_sections: yes
+    theme: cerulean
+    toc_float: yes
+---
+
+
+
+<br/><br/>
+
+
+  ![](img/4irFlyer.jpg)
+
+<br/><br/>
+ 
+# About the event
+
+Following Botswana Academy of Science and the Department of Research Science and Technology, MoTe,  4th Industrial Revolution Symposium August 2019 held as part of the National Science Month celebrations - and the [January 2019 Davos, Switzerland World Economic Forum's "Globalisation 4.0 - Shaping a global Architecture in the Age of the 4th Industrial Revolution themed session ](https://www.weforum.org/focus/davos-2019 "World Economic Forum Page"), and the recent 4-6th September 2019, Capetown, South Africa [World Economic Forum on Africa "Shaping Shaping Inclusive Growth and Shared Futures in the Fourth Industrial Revolution" themed session](https://www.weforum.org/events/world-economic-forum-on-africa-2019 "World Economic Forum on Africa Page") (that covered Innovation,sustainable development , digitilisation and governance) where [Botswana Government was invited](https://www.iol.co.za/business-report/economy/wef-africa-botswana-tells-the-world-it-wants-to-reduce-dependence-on-diamonds-31998283 "President of Botswana at World Economic Forum") - we are joining the Computer Society of Botswana, grassroots innovation ecosystem youth movement (iCodeHub) and the [Southern Africa Innovation Support Programme (SAIS)](https://www.saisprogramme.org/ "Sais programme Page") SAIS2 II Project-Universities - Industries - Government CoCreation Platform on the 10th September 2019 at the University of Botswana Library Auditorium from 18:00hrs to 20:00hrs on a panel discussion around 4IR for Sustainable Development in Botswana during their youthful take on Industry 4.0/4IR. Come and join the discussions and hear the youth - after all it is their era and their revolution.
+
+ ![HE President Dr Mokgweetsi E Masisi meeting World Economic Forum Professor Klaus Schwab, addressing World economic forum on the theme *Shaping inclusive growth and shared futures in the Fourth Industrial Revolution*, and with our regional leaders [Source : Botswana Government]](img/bwgov.jpg)
+<br/><br/>
+<center>
+"*Through our vision, we aspire to transform Botswana from a resource-based to a knowledge-based economy through digitisation and embracing the 4IR. We are committed to a modern Botswana that is not only open to but is also able to compete with the rest of the world*" - HE. President Masisi <br/> [Source: Government of Botswana]</center>
+
+# Registration 
+
+<iframe src="https://www.eventbrite.com/e/4ir-minus-the-buzz-tickets-68788533355" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe> 
+
+
+
+# Distribution Rights
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+# Links {-}
+- [World Economic Forum ](https://www.weforum.org/)
